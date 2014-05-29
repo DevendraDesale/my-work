@@ -1,4 +1,4 @@
-#This repository contains the freeMarker assignments.
+#FreeMarker assignments.
 
 
 ###The assignments covered in this repo are:
